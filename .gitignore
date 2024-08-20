@@ -12,6 +12,7 @@
 
 # Exported files (such as Gerber files, drill files, STEP files, etc.)
 *.gbr
+*.gbrjob
 *.drl
 *.step
 *.stp
