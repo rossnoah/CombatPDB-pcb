@@ -6,22 +6,6 @@
 *.kicad_pcb.tmp
 *.kicad_sch.tmp
 
-# KiCad project-specific files
-*.pro
-*.kicad_pcb
-*.kicad_sch
-*.kicad_mod
-
-# KiCad footprint and symbol libraries
-*.kicad_fpl
-*.kicad_sym
-*.kicad_lib
-
-# KiCad user configuration files
-*.pro
-*.kicad_pcb
-*.kicad_sch
-
 # KiCad simulation files
 *.lib
 *.sch
@@ -30,7 +14,7 @@
 *.drl
 *.step
 *.stp
-*.zip
+*.zips
 *.tar.gz
 *.tar.bz2
 *.pdf
