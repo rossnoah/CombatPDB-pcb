@@ -27,7 +27,6 @@
 *.sch
 
 # Exported files (such as Gerber files, drill files, STEP files, etc.)
-*.gbr
 *.drl
 *.step
 *.stp
